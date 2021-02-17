@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/Start Screen.unity
+    guid: b53cebc0035e5b5448d18b8368fc3912
+  - enabled: 1
+    path: Assets/Scene/Main Menu.unity
+    guid: dedf12bf92bdbea4ba20567d13b416ba
+  - enabled: 1
+    path: Assets/Scene/Level 1.unity
+    guid: 3061d7be27aafd6448048dae4de99a56
+  - enabled: 1
+    path: Assets/Scene/GameOver Menu.unity
+    guid: 34e81703a05d6144aa8e77f804f9b768
+  - enabled: 1
+    path: Assets/Scene/Win Menu.unity
+    guid: 943bc4f82009dff4ca230ceea2d7c668
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/Win Menu Level 2.unity
+    guid: 8aa597120e7d84341808a517050ddb9d
+  - enabled: 1
+    path: Assets/Scene/Win Menu Level 3.unity
+    guid: 99a09276cc2a765439bbe045f47456f9
+  - enabled: 1
+    path: Assets/Scene/Level 2.unity
+    guid: ed28867a524b566409814dd165f06ae5
+  - enabled: 1
+    path: Assets/Scene/Level 3.unity
+    guid: 13f3f3736945d5943b8f761ff4321aa3
+  - enabled: 1
+    path: Assets/Scene/GameOver Menu Level 3.unity
+    guid: 10accdd14a97f004ab34b42f975ecd30
+  - enabled: 1
+    path: Assets/Scene/GameOver Menu Level 2.unity
+    guid: e30aa782cbb96ac47a0fcaa649c68b62
+  - enabled: 1
+    path: Assets/Scene/Win Menu Level 4.unity
+    guid: 4a37b0964e8a09548ac7f66962cb8d28
+  - enabled: 1
+    path: Assets/Scene/GameOver Menu Level 4.unity
+    guid: 486390c65df104e4ba65b1bf025477d7
+  - enabled: 1
+    path: Assets/Scene/Level 4.unity
+    guid: 667e1724b4ea19947bfc193aba948d3c
+  m_configObjects: {}
